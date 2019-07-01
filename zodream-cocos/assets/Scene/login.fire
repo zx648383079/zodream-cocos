@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.5939208984375,
-      "y": 0.5939208984375,
+      "x": 0.5953125,
+      "y": 0.5953125,
       "z": 1
     },
     "_quat": {
@@ -309,6 +309,8 @@
       "__id__": 5
     },
     "_enabled": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_spriteFrame": {
       "__uuid__": "410fb916-8721-4663-bab8-34397391ace7"
     },
@@ -325,8 +327,6 @@
     "_isTrimmedMode": true,
     "_state": 0,
     "_atlas": null,
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
     "_id": "d1cqckqHZIG4uWwuvL5OaP"
   },
   {
@@ -602,8 +602,8 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_string": "button",
-    "_N$string": "button",
+    "_string": "登录",
+    "_N$string": "登录",
     "_fontSize": 20,
     "_lineHeight": 40,
     "_enableWrapText": false,
@@ -655,6 +655,8 @@
       "__id__": 10
     },
     "_enabled": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_spriteFrame": {
       "__uuid__": "f0048c10-f03e-4c97-b9d3-3506e1d58952"
     },
@@ -671,8 +673,6 @@
     "_isTrimmedMode": true,
     "_state": 0,
     "_atlas": null,
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
     "_id": "3fHhsmhztKU4pV0QqmPovW"
   },
   {
@@ -925,6 +925,8 @@
       "__id__": 18
     },
     "_enabled": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_spriteFrame": {
       "__uuid__": "ff0e91c7-55c6-4086-a39f-cb6e457b8c3b"
     },
@@ -941,8 +943,6 @@
     "_isTrimmedMode": true,
     "_state": 0,
     "_atlas": null,
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
     "_id": "38ip90Gn9P2Z3UuTI/d7/m"
   },
   {
@@ -1328,6 +1328,8 @@
       "__id__": 27
     },
     "_enabled": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_spriteFrame": {
       "__uuid__": "ff0e91c7-55c6-4086-a39f-cb6e457b8c3b"
     },
@@ -1344,8 +1346,6 @@
     "_isTrimmedMode": true,
     "_state": 0,
     "_atlas": null,
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
     "_id": "e8TAMVzdJCQofRBfZ9bTem"
   },
   {
@@ -1643,6 +1643,9 @@
     },
     "_enabled": true,
     "label": null,
+    "loginBtn": {
+      "__id__": 15
+    },
     "text": "hello",
     "_id": "bavWwCG8RFi7cWtaYB+fn7"
   }
